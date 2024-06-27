@@ -9,4 +9,4 @@ Repo for coursera getting and cleaning data project
      ~label the coloumns with appropraite variable names
      ~creates a new tidy dataset with avg of each variable(col) on the basis of subject and code(factor)
 2.  CodeBook.Md: This contains the information for the dataset(variables)
-3.  tidydata.txt: contains the final output returne after running all the code   
+3.  tidydata.txt: contains the final output returned after running all the code   
